@@ -1,0 +1,29 @@
+.friend_list{
+    display:flex;
+    flex-direction: column;
+    gap:20px
+}
+
+.item{
+    display:flex;
+    align-items: center;
+    gap:10px;
+    width:250px;
+    padding:20px 20px;
+    background-color: white;
+    border-radius: 4px;
+    -webkit-box-shadow: 8px 8px 24px -18px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 24px -18px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 24px -18px rgba(66, 68, 90, 1);
+}
+
+.avatar{
+    background-color: lightcyan;
+    padding:5px;
+    border-radius: 5px;
+}
+.status{
+    width:20px;
+    height:20px;
+    border-radius: 50%;
+}
