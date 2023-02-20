@@ -1,4 +1,3 @@
-import React, { Component }  from 'react';
 import userProfile from './user.json';
 import dataStat from './data.json';
 import friendlist from './friends.json';

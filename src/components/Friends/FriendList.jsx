@@ -1,4 +1,4 @@
-import PropTypes, { shape } from 'prop-types';
+import PropTypes from 'prop-types';
 import { FriendItem } from './FriendItem';
 import style from './FriendList.module.css';
 
